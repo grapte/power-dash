@@ -1,4 +1,4 @@
-:80, :443 {
+supersus.link, :80, :443 {
   root * /mystack/frontend
   file_server
   reverse_proxy /api/* localhost:8090
