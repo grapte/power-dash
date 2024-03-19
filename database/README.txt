@@ -1,0 +1,1 @@
+Unzip pocketbase binary here for local development.
